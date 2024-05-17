@@ -1,0 +1,8 @@
+# Ignore newvenv virtual environment
+dl/
+
+# Ignore Python bytecode cache
+__pycache__/
+
+# Ignore VSCode Cache file
+.vscode/
